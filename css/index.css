@@ -4,7 +4,7 @@
 section{margin: .22rem 0 0 0;border-top: 0.01rem solid #d5d5d5;border-bottom: 0.01rem solid #d5d5d5;}
 
 /*确认订单*/
-.order-sure-rad{margin: 5rem auto;text-align:center;}
+.order-sure-rad{margin: 5rem;}
 
 /*纯css模拟CheckBox*/
 .order-sure-rad input{width: 1.12rem;height: .54rem;display: none;}
